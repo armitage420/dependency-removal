@@ -1,7 +1,7 @@
 # dependency-removal
 
 # Language used: Java 8
-# Tried removing dependency without using and frameworks.
+# Tried removing dependency without using any frameworks.
 
 # Question: Loan Management-
 # The module to be developed is a loan management system for any type loan.
